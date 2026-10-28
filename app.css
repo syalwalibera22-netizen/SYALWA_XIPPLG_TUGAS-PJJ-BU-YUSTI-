@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  padding: 60px 20px;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 24px;
+}
